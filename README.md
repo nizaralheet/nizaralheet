@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nizaralheet
 - 🌱 I’m currently CE student 
 -  You can reach me on reddit [u/nizar_al7eet](https://www.reddit.com/user/nizar_al7eet/) 📫
-- (all my config are in .config)
+- (all my config are in [.config](https://github.com/nizaralheet/.config))
 - my OS specs : 
 - OS : [Arch Linux](https://archlinux.org/)
 - WM : [qtile](https://qtile.org/) + [qtile extras](https://qtile-extras.readthedocs.io/en/stable/index.html)
