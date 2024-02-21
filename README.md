@@ -10,9 +10,9 @@
 - My themes, icon manager : [lxapperance](https://man.archlinux.org/man/lxappearance.1.en)
 - Font : [Source Code Pro](https://fonts.adobe.com/fonts/source-code-pro)
 - App launcher : [Rofi](https://wiki.archlinux.org/title/Rofi)
-
+- Terminal and vim colors : pywal
 <!--- my secret app : [nizaro] (https://docs.xfce.org/xfce/thunar/start --->
-- 
+ 
 
 <!---
 nizaralheet/nizaralheet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
