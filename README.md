@@ -10,7 +10,7 @@
 - My themes, icon manager : [lxapperance](https://man.archlinux.org/man/lxappearance.1.en)
 - Font : [Source Code Pro](https://fonts.adobe.com/fonts/source-code-pro)
 - App launcher : [Rofi](https://wiki.archlinux.org/title/Rofi)
-- Terminal and vim colors : pywal
+- Terminal and vim colors : [pywal](https://pypi.org/project/pywal/)
 <!--- my secret app : [nizaro] (https://docs.xfce.org/xfce/thunar/start --->
  
 
