@@ -3,8 +3,7 @@
 -  You can reach me on reddit [u/nizar_al7eet](https://www.reddit.com/user/nizar_al7eet/) 📫
 - (here is [my config](https://github.com/nizaralheet/.config))
 - Just an linux enjoyer here 
-- OS : [Arch Linux](https://archlinux.org/)
-- WM : [qtile](https://qtile.org/)
+
 <!--- my secret app : [nizaro] (https://docs.xfce.org/xfce/thunar/start --->
  
 
